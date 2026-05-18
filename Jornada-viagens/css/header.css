@@ -1,4 +1,4 @@
-header {
+.main-header {
     background-color: var(--background-tertiary-color);
     display: flex;
     flex-direction: row;
@@ -14,11 +14,11 @@ header {
     height: 64px;
 }
 
-.logo-mobile {
+.img-mobile {
     display: block;
 }
 
-.logo-desktop {
+.img-desktop {
     display: none;
 }
 
