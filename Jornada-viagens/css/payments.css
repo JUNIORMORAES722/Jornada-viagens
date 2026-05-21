@@ -46,7 +46,7 @@
     background: url(../img/gallery2-tablet.png) no-repeat;
     background-size: cover;
   }
-  .payments .content-container.image-gallery .image.thirdy {
+  .payments .content-container .image-gallery .image.thirdy {
     background: url(../img/gallery3-tablet.png) no-repeat;
     background-size: cover;
   }
@@ -69,7 +69,7 @@
   .payments .content-container {
     display: flex;
     justify-content: space-between;
-    }
+  }
   .payments .content-container .text-content {
     width: 360px;
   }
